@@ -6,7 +6,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 function App() {
   return (
     <div>
-      {/* Navbar, Header ở đây nè */}
+      {/* Header ở đây nè */}
 
 
 
