@@ -9,7 +9,7 @@ function App() {
     <div>
       {/* Header ở đây nè */}
     <Header/>
-
+    {/* Nguyen Van Rin */}
 
       {/* Đây là chuyển hướng nhé */}
       <Router>
